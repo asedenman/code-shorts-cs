@@ -13,4 +13,9 @@
 /dataSources.local.xml
 
 # AWS User-specific
-/aws.xml
+.idea/**/aws.xml
+
+#User defined
+bin
+obj
+packages
