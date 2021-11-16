@@ -16,6 +16,7 @@
 .idea/**/aws.xml
 
 #User defined
-bin
-obj
+**/bin
+**/obj
 packages
+/.idea
